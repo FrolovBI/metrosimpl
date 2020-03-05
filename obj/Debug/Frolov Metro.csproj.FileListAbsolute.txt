@@ -1,0 +1,13 @@
+C:\Users\Admin\source\repos\Frolov Metro\bin\Debug\Frolov Metro.exe.config
+C:\Users\Admin\source\repos\Frolov Metro\bin\Debug\Frolov Metro.exe
+C:\Users\Admin\source\repos\Frolov Metro\bin\Debug\Frolov Metro.pdb
+C:\Users\Admin\source\repos\Frolov Metro\bin\Debug\MetroFramework.Design.dll
+C:\Users\Admin\source\repos\Frolov Metro\bin\Debug\MetroFramework.dll
+C:\Users\Admin\source\repos\Frolov Metro\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\Admin\source\repos\Frolov Metro\obj\Debug\Frolov Metro.csprojAssemblyReference.cache
+C:\Users\Admin\source\repos\Frolov Metro\obj\Debug\Frolov_Metro.Form1.resources
+C:\Users\Admin\source\repos\Frolov Metro\obj\Debug\Frolov_Metro.Properties.Resources.resources
+C:\Users\Admin\source\repos\Frolov Metro\obj\Debug\Frolov Metro.csproj.GenerateResource.cache
+C:\Users\Admin\source\repos\Frolov Metro\obj\Debug\Frolov Metro.csproj.CopyComplete
+C:\Users\Admin\source\repos\Frolov Metro\obj\Debug\Frolov Metro.exe
+C:\Users\Admin\source\repos\Frolov Metro\obj\Debug\Frolov Metro.pdb
